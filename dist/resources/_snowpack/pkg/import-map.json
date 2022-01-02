@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "react": "./react.js",
+    "react-slider": "./react-slider.js"
+  }
+}
